@@ -4,4 +4,4 @@
 The code here was written to take vcf SNP data from trypanosome populations and then determine whether it leads to codon changes in the associated proteins. The code was written specifically for trypanosomes which do not generally use introns and as such does not account for their presence, alternative splicing etc.
 
 popGen1.py is the initial script
-popGen1ai.py is an amended script incorporating optimisation suggested by chatGTP
+popGen1ai.py is an amended script incorporating optimisation suggested by chatGTP. The code retruned by chatGTP doesn't work but is useful for comparison purposes and as a starting point for using generalised AI tools for optimisation.
